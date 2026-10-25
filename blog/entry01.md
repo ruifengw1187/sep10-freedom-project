@@ -7,7 +7,7 @@ I chose animation because it lowk appeals to me. I've seen many cool animations 
 
 ### Skills I Have Taken In Consideration
 #### Eye of an Eagle
-When I search up _animation technology_, I obviously won't go through 100 million or more Google results. I immediately disregard any unnecessary results that are either unrelated or don't fit the subject at hand. I skimmed my way through the multitude of results and found ones that are relevant to my searches like ["How Technology Has Transformed Animation: A Look at the Past, Present, and Future"](https://www.prayananimation.com/blog/how-technology-has-transformed-animation-a-look-at-the-past-present-and-future/). This helped me save a bunch of time and stay on topic.
+When I search up _animation technology_, I obviously won't go through 100 million or more Google results. I immediately disregard any unnecessary results that are either unrelated or don't fit the subject at hand. I skimmed my way through the multitude of results and found ones that are relevant to my searches like ["How Technology Has Transformed Animation: A Look at the Past, Present, and Future"](https://www.prayananimation.com/blog/how-technology-has-transformed-animation-a-look-at-the-past-present-and-future/). This is something that I was more or less looking for. 
 
 ### Patience is a Virtue
 Since I mostly game and sometimes do my work. Doing a blog that eats up plenty of time is pretty daunting. So, I cut my precious gaming time, steel my resolve, and put my full attention to this blog. 
