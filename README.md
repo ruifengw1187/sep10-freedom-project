@@ -8,18 +8,6 @@ For my project, I chose the topic of animation.
 
 I used HTML, CSS, and Github.
 
-## Links
-
-[Product]()
-
-[Presentation]()
-
-## Implications
-##### PROS
-* 
-##### CONS
-* 
-
 
 ## Blog
 Below you will find my blog about how I made my project.
