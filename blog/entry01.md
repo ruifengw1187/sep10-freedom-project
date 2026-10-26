@@ -12,7 +12,7 @@ When I search up _animation technology_, I obviously won't go through 100 millio
 Since I mostly game and sometimes do my work. Doing a blog that eats up plenty of time is pretty daunting. So, I cut my precious gaming time, steel my resolve, and put my full attention to this blog. Due to my nature of sitting at home and playing games, at times I forget that I have 10 packets of homework due tomorrow. That's why I have to sit through this result page and try to find the right resources to write about. 
 
 
-
+### 
 
 
 
