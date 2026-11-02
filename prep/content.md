@@ -7,11 +7,18 @@ Animation is the art of making static images look like they are moving. You draw
 ## Part A: existing technology
 
 ##### Software
-
-* Tech
-  * Detail
-  * [image text](image URL)
-
+* First I searched up "Software Animation Tools" on the search bar.
+* Scroll through to find sources necessary for your topic.
+* Found a website called ["MoonB"](https://www.moonb.io/blog/the-best-ai-animation-software)
+  * On the website I found 13 best software animation tools to use. (2026)
+  * One of the many named was King AI.
+  * King AI is a tool where creators can make realistic animation and consistent characters without paying premium
+  * It is free and the standard premium costs only 10 dollars a month.
+  * Its motion physics hold up well, and characters stay recognizable across separate shots. The cost per generation is among the         lowest of the serious generators.
+ * Another website that was listed was named Luma Dream Machine
+   * Its best for turning still images into cinematic full blown animation and atmospheric motion.
+   * Image-to-video with camera moves produces smooth, filmic five-second shots in a couple of minutes. It is a favorite for mood          pieces and quick concept reels.
+   * It shines on short clips. Longer ones mean stitching shots together, and fine-grained control lags behind Runway.
 ##### Hardware
 * Tech
   * Detail
