@@ -10,7 +10,7 @@ Animation is the art of making static images look like they are moving. You draw
 * First I searched up "Software Animation Tools" on the search bar.
 * Scroll through to find sources necessary for your topic.
 * Found a website called ["MoonB"](https://www.moonb.io/blog/the-best-ai-animation-software).
-  * On the website I found 13 best software animation tools to use. (2026)
+  * On the website I found 13 best software AI animation tools to use. (2026)
   * One of the many named was King AI.
   * King AI is a tool where creators can make realistic animation and consistent characters without paying premium
   * It is free and the standard premium costs only 10 dollars a month.
@@ -19,6 +19,11 @@ Animation is the art of making static images look like they are moving. You draw
    * Its best for turning still images into cinematic full blown animation and atmospheric motion.
    * Image-to-video with camera moves produces smooth, filmic five-second shots in a couple of minutes. It is a favorite for mood          pieces and quick concept reels.
    * It shines on short clips. Longer ones mean stitching shots together, and fine-grained control lags behind Runway.
+ * No AI this time and found ["Adobe"](https://www.adobe.com/creativecloud/animation-software.html)
+   * Adobe has a feature where you can use your webcam and microphone to capture live movements with motion sensor technology.
+   * "Animate (formerly Flash Professional) lets you create high-quality vector graphics that are scalable, reusable, and adaptable       for cartoons, banners, games, and other interactive content. It’s easy to import from Animate to After Effects and publish your       animated videos to multiple platforms with the push of a button."
+ * Found another website called ["10 Animation Software Platforms for Beginners"](https://www.skillshare.com/en/blog/9-animation-software-platforms-for-beginners/?srsltid=AYCX9vJLn2iK-KxiLF_5H-tURXS6ruBmyFwIOfCN_l21FNrW50em9DG_)
+   * One of the software listed is called Cinema 4D
 ##### Hardware
  * Same thing, but instead I searched up "Hardware Animation Tools."
  * Scroll again to find the necessary resources.
