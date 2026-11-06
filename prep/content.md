@@ -24,6 +24,7 @@ Animation is the art of making static images look like they are moving. You draw
    * "Animate (formerly Flash Professional) lets you create high-quality vector graphics that are scalable, reusable, and adaptable       for cartoons, banners, games, and other interactive content. It’s easy to import from Animate to After Effects and publish your       animated videos to multiple platforms with the push of a button."
  * Found another website called ["10 Animation Software Platforms for Beginners"](https://www.skillshare.com/en/blog/9-animation-software-platforms-for-beginners/?srsltid=AYCX9vJLn2iK-KxiLF_5H-tURXS6ruBmyFwIOfCN_l21FNrW50em9DG_)
    * One of the software listed is called Cinema 4D
+   * 
 ##### Hardware
  * Same thing, but instead I searched up "Hardware Animation Tools."
  * Scroll again to find the necessary resources.
@@ -35,7 +36,7 @@ Animation is the art of making static images look like they are moving. You draw
      * GPU is crucial for complex scenes and time rendering. If you're serious about 3D work, aim at at least an RTX 4070/5070
      * A minimum of 16 GB is required but 32 is highly recommended for 3D and heavy workloads
      * CPU is important for speeding up rendering and simulations.
-     * Can't forget about storage, at least 1 TB cuz those files finna eat em up like there's no tomorrow
+     * Can't forget about storage, at least 1 TB cuz those files finna eat em all up.
     
 
    
