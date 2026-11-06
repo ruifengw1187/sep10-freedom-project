@@ -37,10 +37,7 @@ Animation is the art of making static images look like they are moving. You draw
      * A minimum of 16 GB is required but 32 is highly recommended for 3D and heavy workloads
      * CPU is important for speeding up rendering and simulations.
      * Can't forget about storage, at least 1 TB cuz those files finna eat em all up.
-    
-
-   
-
+ 
 ## Part B: possible future technology
 * Idea
   * Detail
