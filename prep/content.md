@@ -24,7 +24,7 @@ Animation is the art of making static images look like they are moving. You draw
    * "Animate (formerly Flash Professional) lets you create high-quality vector graphics that are scalable, reusable, and adaptable       for cartoons, banners, games, and other interactive content. It’s easy to import from Animate to After Effects and publish your       animated videos to multiple platforms with the push of a button."
  * Found another website called ["10 Animation Software Platforms for Beginners"](https://www.skillshare.com/en/blog/9-animation-software-platforms-for-beginners/?srsltid=AYCX9vJLn2iK-KxiLF_5H-tURXS6ruBmyFwIOfCN_l21FNrW50em9DG_)
    * One of the software listed is called Cinema 4D
-   * 
+   * For animating, modeling, texturing, lighting and visual effects.
 ##### Hardware
  * Same thing, but instead I searched up "Hardware Animation Tools."
  * Scroll again to find the necessary resources.
