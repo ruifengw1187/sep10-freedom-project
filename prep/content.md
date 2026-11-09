@@ -6,7 +6,7 @@ Animation is the art of making static images look like they are moving. You draw
 
 ## Part A: existing technology
 
-##### Software
+#### Software
 * First I searched up "Software Animation Tools" on the search bar.
 * Scroll through to find sources necessary for your topic.
 * Found a website called ["MoonB"](https://www.moonb.io/blog/the-best-ai-animation-software).
@@ -25,7 +25,7 @@ Animation is the art of making static images look like they are moving. You draw
  * Found another website called ["10 Animation Software Platforms for Beginners"](https://www.skillshare.com/en/blog/9-animation-software-platforms-for-beginners/?srsltid=AYCX9vJLn2iK-KxiLF_5H-tURXS6ruBmyFwIOfCN_l21FNrW50em9DG_)
    * One of the software listed is called Cinema 4D
    * For animating, modeling, texturing, lighting and visual effects.
-##### Hardware
+#### Hardware
  * Same thing, but instead I searched up "Hardware Animation Tools."
  * Scroll again to find the necessary resources.
  * Found this website called ["6 types of equipment needed for your animation studio"](https://www.deedeestudio.net/en/post/types-equipment-needed-animation-studio).
