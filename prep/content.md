@@ -16,7 +16,7 @@ Animation is the art of making static images look like they are moving. You draw
   * It is free and the standard premium costs only 10 dollars a month.
   * Its motion physics hold up well, and characters stay recognizable across separate shots. The cost per generation is among the         lowest of the serious generators.
  * Another website that was listed was named Luma Dream Machine
-   * Its best for turning still images into cinematic full blown animation and atmospheric motion.
+   * It's best for turning still images into cinematic full blown animation and atmospheric motion.
    * Image-to-video with camera moves produces smooth, filmic five-second shots in a couple of minutes. It is a favorite for mood          pieces and quick concept reels.
    * It shines on short clips. Longer ones mean stitching shots together, and fine-grained control lags behind Runway.
  * No AI this time and found ["Adobe"](https://www.adobe.com/creativecloud/animation-software.html)
