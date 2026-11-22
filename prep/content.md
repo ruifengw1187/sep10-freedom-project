@@ -19,7 +19,7 @@ Animation is the art of making static images look like they are moving. You draw
    * It's best for turning still images into cinematic full blown animation and atmospheric motion.
    * Image-to-video with camera moves produces smooth, filmic five-second shots in a couple of minutes. It is a favorite for mood          pieces and quick concept reels.
    * It shines on short clips. Longer ones mean stitching shots together, and fine-grained control lags behind Runway.
- * No AI this time and found ["Adobe"](https://www.adobe.com/creativecloud/animation-software.html)
+ * No AI this time ["Adobe"](https://www.adobe.com/creativecloud/animation-software.html)
    * Adobe has a feature where you can use your webcam and microphone to capture live movements with motion sensor technology.
    * "Animate (formerly Flash Professional) lets you create high-quality vector graphics that are scalable, reusable, and adaptable       for cartoons, banners, games, and other interactive content. It’s easy to import from Animate to After Effects and publish your       animated videos to multiple platforms with the push of a button."
  * Found another website called ["10 Animation Software Platforms for Beginners"](https://www.skillshare.com/en/blog/9-animation-software-platforms-for-beginners/?srsltid=AYCX9vJLn2iK-KxiLF_5H-tURXS6ruBmyFwIOfCN_l21FNrW50em9DG_)
@@ -39,5 +39,8 @@ Animation is the art of making static images look like they are moving. You draw
      * Can't forget about storage, at least 1 TB cuz those files finna eat em all up.
  
 ## Part B: possible future technology
-* Idea
-  * Detail
+* I searched up "future technology for animation" and I skimmed the sources until I found a few promising ones.
+  * Found this website called ["The Future of Animation: What to Expect in the Next 5 Years"](https://studioimageworks.com/future-of-animation-the-next-5-years/)
+  * The website talks about how AI driven animations are taking the world by storm and how it's making animating easier. From meticulous hands drawn to a prompt, AI could potentially save animators tons of time and resources. Allowing animators to divert their attention elsewhere if needed.
+  * VR (Virtual reality, AR (Augmented reality), MR (Mixed reality) have become increasingly demanding over the years and have now beginning to be integrated in animations where your choices can affect the whole plot.
+ 
